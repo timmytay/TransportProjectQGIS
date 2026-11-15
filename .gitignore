@@ -1,0 +1,24 @@
+
+# VS Code — личные настройки
+.vscode/
+
+# Геоданные и результаты (тяжелые файлы)
+data/
+exports/
+*.gpkg
+*.parquet
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+*.ctf
+*.csv
+
+# Скриншоты
+скриншоты_барьеры/
+
+# Прочее
+*.log
+.DS_Store
+Thumbs.dbgit checkout main
